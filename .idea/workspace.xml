@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="921a7f10-7555-4130-a51d-8deed07745f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PythonPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/5_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/6_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/6_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/7_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/7_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/8_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/8_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/8_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc_project/y2mljk/8_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/2_3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/2_4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/CodingStyle.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,17 +36,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -31,11 +45,6 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -93,9 +102,6 @@
       </list>
     </option>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="921a7f10-7555-4130-a51d-8deed07745f9" name="Default" comment="" />
@@ -104,36 +110,19 @@
       <option name="presentableId" value="Default" />
       <updated>1524023599273</updated>
     </task>
-    <task id="LOCAL-00001" summary="第一次将已有代码上传">
-      <created>1524024392698</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1524024392698</updated>
-    </task>
-    <task id="LOCAL-00002" summary="第一次将已有代码上传">
-      <created>1524024786297</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1524024786297</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.41524106" side_tool="true" visible="true" weight="0.74311924" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.58475894" visible="true" weight="0.74311924" />
-      <window_info anchor="bottom" id="Python Console" sideWeight="0.4992224" weight="0.32844037" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4968896" weight="0.57798165" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25816485" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.74311924" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25816485" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -147,9 +136,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -187,8 +173,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
