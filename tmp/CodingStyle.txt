@@ -1,4 +1,4 @@
-Linux kernel coding style
+    Linux kernel coding style
 =========================
 
 This is a short document describing the preferred coding style for the
