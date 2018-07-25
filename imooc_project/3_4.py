@@ -17,6 +17,6 @@ class FloatRange:
             t -= self.step
 
 
-for x in reversed(FloatRange(1.0, 4.0, 0.5)):
+for x in (FloatRange(1.0, 4.0, 0.5)):
     print(x)
 
