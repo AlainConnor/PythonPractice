@@ -9,6 +9,8 @@ def mySplit(s, ds):
         t = []
         # python3中map产生了一个生成器，只有在迭代的时候才会调用lambda函数
         list(map(lambda x: t.extend(x.split(d)), res))
+        # 也可以通过列表解析的形式处理这个过程
+        # [t.extend(x) for x in map(lambda x: x.split(d), res)]
         res = t
     return [x for x in res if x]  # 删掉空字符串，否则两个连续逗号间会产生一个空字符串""
 
