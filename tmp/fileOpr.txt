@@ -1,0 +1,2 @@
+I like Python.
+我喜欢编程。
