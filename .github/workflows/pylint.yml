@@ -20,6 +20,4 @@ jobs:
         pip install pylint
     - name: Analysing the code with pylint
       run: |
-        ls -R|grep .py
-        ls -R|grep .py$|xargs
-        pylint `ls -R|grep .py$|xargs`
+        find . -iname "*.py" | xargs pylint
